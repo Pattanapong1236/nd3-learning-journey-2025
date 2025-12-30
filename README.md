@@ -22,7 +22,7 @@
 
 บริบทและทิศทางของอุตสาหกรรมไทยในการเปลี่ยนผ่านสู่ Smart Factory (Industry 4.0)
 
-> 📂 **Documentation:** [ดูข้อมูลเจาะลึกในโฟลเดอร์ Thailand Industry](./thailand-industry/README.md)
+> 📂 **Documentation:** [ดูข้อมูลโดยละเอียดในโฟลเดอร์ Thailand-Industry](./Thailand-Industry/README.md)
 
 * **Thailand 4.0 Policy:** การยกระดับอุตสาหกรรมในพื้นที่ EEC (Eastern Economic Corridor) สู่ S-Curve Industries (ยานยนต์สมัยใหม่, อิเล็กทรอนิกส์อัจฉริยะ)
 * **Automation Landscape:** การเปลี่ยนผ่านจากแรงงานคน (Labor Intensive) สู่ระบบอัตโนมัติและหุ่นยนต์ (Robotics & Automation)
@@ -34,7 +34,7 @@
 
 โครงสร้างพื้นฐานเครือข่ายอุตสาหกรรมและการเชื่อมต่ออุปกรณ์ (OT/IT Convergence)
 
-> 📂 **Documentation:** [ดูข้อมูล Protocols และ Network ในโฟลเดอร์ Industrial Networking](./industrial-networking/README.md)
+> 📂 **Documentation:** [ดูข้อมูลโดยละเอียดในโฟลเดอร์ Industrial-Networking](./Industrial-Networking/README.md)
 
 * **OT Protocols (Operational Technology):**
     * *Modbus TCP/RTU:* มาตรฐานพื้นฐานสำหรับการสื่อสารระหว่าง PLC และ Sensor
@@ -49,7 +49,7 @@
 
 การจำลองคู่แฝดดิจิทัลเพื่อการวิเคราะห์และจำลองสถานการณ์
 
-> 📂 **Documentation:** [ดูข้อมูลการจำลองระบบในโฟลเดอร์ Digital Twins](./digital-twins/README.md)
+> 📂 **Documentation:** [ดูข้อมูลโดยละเอียดในโฟลเดอร์ Digital-Twins](./Digital-Twins/README.md)
 
 * **Virtual Commissioning:** การจำลองการทำงานของเครื่องจักรและดีบักโค้ด PLC บน Software ก่อนเดินเครื่องจริง (ลดความเสี่ยงและความเสียหาย)
 * **Asset Administration Shell (AAS):** มาตรฐานการสร้างโมเดลข้อมูลของเครื่องจักรเพื่อการแลกเปลี่ยนข้อมูลที่เป็นสากล
@@ -61,7 +61,7 @@
 
 การนำข้อมูลการผลิตมาวิเคราะห์เพื่อเพิ่มประสิทธิภาพและลด Downtime
 
-> 📂 **Documentation:** [ดูข้อมูล Data Pipeline และ AI Model ในโฟลเดอร์ Data ML](./data-ml/README.md)
+> 📂 **Documentation:** [ดูข้อมูลโดยละเอียดในโฟลเดอร์ Data-ML](./Data-ML/README.md)
 
 * **Industrial Data Analytics:**
     * *OEE (Overall Equipment Effectiveness):* การคำนวณประสิทธิผลโดยรวมของเครื่องจักรแบบ Real-time
@@ -75,7 +75,7 @@
 
 แผนงานโครงการและการพัฒนาเทคโนโลยีในอนาคต
 
-> 📂 **Documentation:** [ติดตามสถานะโปรเจกต์ในโฟลเดอร์ Projects](./projects/README.md)
+> 📂 **Documentation:** [ดูข้อมูลโดยละเอียดในโฟลเดอร์ Future-Works](./Future-Works/README.md)
 
 - [ ] **Legacy Machine Retrofit:** ติดตั้ง IoT Gateway ให้เครื่องจักรเก่า (CNC) ส่งข้อมูลผ่าน OPC UA ได้
 - [ ] **Energy Monitoring System:** ระบบติดตามการใช้พลังงานไฟฟ้าในไลน์การผลิตเพื่อลดต้นทุน
